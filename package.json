@@ -1,0 +1,38 @@
+{
+  "name": "@stdlib/process-umask",
+  "version": "0.0.0",
+  "description": "Get/set the process mask.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./mod.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/process-umask.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdutils",
+    "stdutil",
+    "utilities",
+    "utility",
+    "utils",
+    "util",
+    "process",
+    "umask",
+    "permissions",
+    "mask",
+    "security",
+    "chmod",
+    "restrictions",
+    "filesystem",
+    "fs"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
