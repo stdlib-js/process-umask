@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/process-umask",
-  "version": "0.0.0",
+  "version": "0.0.8",
   "description": "Get/set the process mask.",
   "license": "Apache-2.0",
   "author": {
