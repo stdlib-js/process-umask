@@ -23,13 +23,13 @@
 var proc = require( 'process' );
 var tape = require( 'tape' );
 var IS_BROWSER = require( '@stdlib/assert-is-browser' );
-var check = require( './../..xtures/check_umask.js' );
+var check = require( './../fixtures/check_umask.js' );
 var umask = require( './../../dist' );
 
 
 // FIXTURES //
 
-var BINARY_SYMBOLIC = require( './../..xtures/binary_to_symbolic.json' );
+var BINARY_SYMBOLIC = require( './../fixtures/binary_to_symbolic.json' );
 
 
 // VARIABLES //
