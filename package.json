@@ -59,7 +59,7 @@
     "@stdlib/assert-is-browser": "^0.1.1",
     "@stdlib/assert-is-windows": "^0.1.1",
     "@stdlib/bench": "^0.1.0",
-    "@stdlib/number-uint16-base-to-binary-string": "^0.1.0",
+    "@stdlib/number-uint16-base-to-binary-string": "^0.1.1",
     "@stdlib/process-exec-path": "^0.1.1",
     "@stdlib/string-right-trim": "^0.1.1",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
