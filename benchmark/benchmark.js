@@ -20,7 +20,7 @@
 
 // MODULES //
 
-var bench = require( '@stdlib/bench' );
+var bench = require( '@stdlib/bench-harness' );
 var isNonNegativeInteger = require( '@stdlib/assert-is-nonnegative-integer' ).isPrimitive;
 var isString = require( '@stdlib/assert-is-string' ).isPrimitive;
 var IS_BROWSER = require( '@stdlib/assert-is-browser' );
