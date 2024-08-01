@@ -53,13 +53,13 @@
     "@stdlib/cli-ctor": "^0.2.2",
     "@stdlib/fs-read-file": "^0.2.2",
     "@stdlib/string-format": "^0.2.2",
-    "@stdlib/string-left-pad": "^0.2.1",
+    "@stdlib/string-left-pad": "^0.2.2",
     "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/assert-is-browser": "^0.2.2",
     "@stdlib/assert-is-windows": "^0.2.2",
-    "@stdlib/number-uint16-base-to-binary-string": "^0.2.1",
+    "@stdlib/number-uint16-base-to-binary-string": "^0.2.2",
     "@stdlib/process-exec-path": "^0.2.2",
     "@stdlib/string-right-trim": "^0.2.2",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
