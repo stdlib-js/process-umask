@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/process-umask",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Get/set the process mask.",
   "license": "Apache-2.0",
   "author": {
@@ -45,23 +45,23 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/assert-has-own-property": "^0.2.2",
-    "@stdlib/assert-is-boolean": "^0.2.2",
-    "@stdlib/assert-is-nonnegative-integer": "^0.2.2",
-    "@stdlib/assert-is-plain-object": "^0.2.2",
-    "@stdlib/assert-is-string": "^0.2.2",
-    "@stdlib/cli-ctor": "^0.2.2",
-    "@stdlib/fs-read-file": "^0.2.2",
-    "@stdlib/string-format": "^0.2.2",
+    "@stdlib/assert-has-own-property": "^0.2.3",
+    "@stdlib/assert-is-boolean": "^0.2.3",
+    "@stdlib/assert-is-nonnegative-integer": "^0.2.3",
+    "@stdlib/assert-is-plain-object": "^0.2.3",
+    "@stdlib/assert-is-string": "^0.2.3",
+    "@stdlib/cli-ctor": "^0.2.3",
+    "@stdlib/fs-read-file": "^0.2.3",
+    "@stdlib/string-format": "^0.2.3",
     "@stdlib/string-left-pad": "^0.2.2",
-    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.3"
   },
   "devDependencies": {
-    "@stdlib/assert-is-browser": "^0.2.2",
-    "@stdlib/assert-is-windows": "^0.2.2",
+    "@stdlib/assert-is-browser": "^0.2.3",
+    "@stdlib/assert-is-windows": "^0.2.3",
     "@stdlib/number-uint16-base-to-binary-string": "^0.2.2",
-    "@stdlib/process-exec-path": "^0.2.2",
-    "@stdlib/string-right-trim": "^0.2.2",
+    "@stdlib/process-exec-path": "^0.2.3",
+    "@stdlib/string-right-trim": "^0.2.3",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
