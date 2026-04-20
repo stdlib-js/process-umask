@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-10)
+## Unreleased (2026-04-20)
 
 <section class="issues">
 
@@ -24,6 +24,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`150e844`](https://github.com/stdlib-js/stdlib/commit/150e844e77811d4e160f077b40d588a86f061f39) - **bench:** refactor to use string interpolation in `process` [(#11597)](https://github.com/stdlib-js/stdlib/pull/11597) _(by Karan Anand)_
 -   [`73ba549`](https://github.com/stdlib-js/stdlib/commit/73ba549f03f075fda5c60ce5949d23285b9572a6) - **chore:** replace `new Array()` with array literal [(#10886)](https://github.com/stdlib-js/stdlib/pull/10886) _(by Daniel Mungai Chege, Athan Reines, stdlib-bot)_
 
 </details>
@@ -36,10 +37,11 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Daniel Mungai Chege
+-   Karan Anand
 
 </section>
 
